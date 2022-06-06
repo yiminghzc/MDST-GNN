@@ -4,7 +4,7 @@
  This is a PyTorch implementation of the paper: Multivariate Time Series Deep Spatiotemporal Forecasting with Graph Neural Network, published in Applied Sciences.
 
 ![image](./figs/mdst-gnn.png)
-
+Figure 1  Model structure diagram of MDST-GNN.
 # Data
 The multivariate time series dataset Solar-Energy, Traffic, Electricity, Exchange-rate datasets can be found in the data file.
 
